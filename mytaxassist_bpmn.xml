@@ -11,14 +11,4 @@
         </mxCell>
 
         <mxCell id="lane2" value="Office Staff" style="swimlane" vertex="1" parent="1">
-          <mxGeometry x="0" y="200" width="1200" height="200" as="geometry"/>
-        </mxCell>
-
-        <mxCell id="lane3" value="Auditor" style="swimlane" vertex="1" parent="1">
-          <mxGeometry x="0" y="400" width="1200" height="200" as="geometry"/>
-        </mxCell>
-
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+          <mxGeometry x="0
