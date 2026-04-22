@@ -6,9 +6,23 @@
         <mxCell id="1" parent="0"/>
 
         <!-- Swimlanes -->
+
+        <!-- Client -->
         <mxCell id="lane1" value="Client" style="swimlane" vertex="1" parent="1">
           <mxGeometry x="0" y="0" width="1200" height="200" as="geometry"/>
         </mxCell>
 
+        <!-- Office Staff -->
         <mxCell id="lane2" value="Office Staff" style="swimlane" vertex="1" parent="1">
-          <mxGeometry x="0
+          <mxGeometry x="0" y="200" width="1200" height="200" as="geometry"/>
+        </mxCell>
+
+        <!-- Auditor -->
+        <mxCell id="lane3" value="Auditor" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="0" y="400" width="1200" height="200" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
